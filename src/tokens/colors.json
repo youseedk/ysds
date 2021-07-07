@@ -2,31 +2,52 @@
   "ys-color": {
     "primary": {
       "digital-grass": "#1fab2e",
-      "white": "#fff",
-      "black": "#000"
+      "black": "#000",
+      "vibrant-green": "#1fab2e",
+      "premium-green": "#003025",
+      "white": "#fff"
+    },
+    "secondary": {
+      "mint": "#b5c9b9",
+      "mint-50": "#dae4dc",
+      "mint-25": "#ecf1ed",
+      "sand": "#c3ab77",
+      "sand-50": "#e1d5bb",
+      "sand-25": "#f0eadd",
+      "wave-blue": "#77acc7",
+      "wave-blue-50": "#bbd5e3",
+      "wave-blue-25": "#ddeaf1"
     },
     "typography": {
-      "grey-10": "#191919"
+      "grey-10": "#191919",
+      "grey-1": "#191919",
+      "accessible-green": "#1a8924"
     },
     "ui-details": {
       "midnight-green": "#002219",
       "digital-moss": "#0c4d33",
-      "digital-dark-grass": "#1A8924"
+      "digital-dark-grass": "#1a8924"
     },
     "splashes": {
       "digital-turquoise": "#27a4d7",
-      "digital-sunset-yellow": "#ffb700"
+      "digital-sunset-yellow": "#ffb700",
+      "label-mint": "#5d7e64",
+      "label-sand": "#8a723d",
+      "label-blue": "#327ea4"
     },
     "feedback": {
       "error-red": "#d31a20",
       "error-red-10": "#fae8e8",
       "warning-yellow": "#ff8a00",
-      "warning-yellow-10": "#fff7e5",
+      "warning-yellow-10": "#fff3e6",
       "info-blue": "#266df5",
-      "info-blue-10": "#e8f0ff"
+      "info-blue-10": "#e9f0fe",
+      "vibrant-green": "#1fab2e",
+      "vibrant-green-10": "#e9f7ea",
+      "error-red-darkmode": "#ff2a2a"
     },
     "accent": {
-      "digital-grass-10": "#ebf9ec"
+      "digital-grass-10": "#e9f7ea"
     },
     "accent-greys": {
       "grey-22": "#383838",
@@ -36,7 +57,14 @@
       "grey-64": "#a2a2a2",
       "grey-85": "#d9d9d9",
       "grey-94": "#f0f0f0",
-      "grey-98": "#fafafa"
+      "grey-98": "#fafafa",
+      "grey-1": "#191919",
+      "grey-2": "#383838",
+      "grey-3": "#484848",
+      "grey-4": "#a2a2a2",
+      "grey-5": "#d9d9d9",
+      "grey-6": "#f0f0f0",
+      "grey-7": "#fafafa"
     }
   }
 }
